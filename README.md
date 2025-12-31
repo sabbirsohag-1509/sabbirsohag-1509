@@ -23,7 +23,8 @@ Currently focusing on React, Next.js, and modern UI practices.
 - 📚 Learning advanced **React & JavaScript**
 - 💡 Improving UI/UX design skills
 - 👥  I'm looking to collaborate on GitHub
-- 💬  Ask me about I am GymHolic & trainer
+- 💬 Ask me about fitness, gym training, and healthy lifestyle
+
 
 ---
 
@@ -63,6 +64,57 @@ Currently focusing on React, Next.js, and modern UI practices.
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbirsohag-1509&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirsohag-1509&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sabbirsohag-1509&theme=tokyonight" />
+</p>
+
+
+---
+## 🚀 Featured Projects
+
+### 🎓 ScholarStream (Scholarship Management Platform)
+- Role-based dashboards (Student, Moderator, Admin)
+- Stripe payment integration
+- Search, filter & pagination  
+🔗 Live: https: https://sparkling-sable-55715c.netlify.app
+🔗 Client: [https://github.com/your-repo](https://github.com/sabbirsohag-1509/assignment-11-client)
+
+---
+
+### 🏡 HomeNest – Real Estate Listing Platform
+- Property owners can add, update, and delete listings
+- Users can browse, search, and filter properties by location, price, and category
+- Private routes for Add Property, My Properties, and My Ratings
+- Backend-powered search & sorting (price, date)
+- Ratings & reviews system for properties
+- Secure authentication using Firebase & JWT
+- Responsive UI with light/dark mode support
+🔗 Live: https://whimsical-marigold-942cbe.netlify.app  
+🔗 Client: https://github.com/sabbirsohag-1509/assignment-10-client-site
+
+## 🧩 Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Firebase, Netlify
+
+  ---
+
+
+
+
+
 
 
 
