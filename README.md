@@ -90,7 +90,7 @@ Currently focusing on React, Next.js, and modern UI practices.
  
 🔗 Live: https://sparkling-sable-55715c.netlify.app
 
-🔗 Client: [https://github.com/your-repo](https://github.com/sabbirsohag-1509/assignment-11-client)
+🔗 Client: https://github.com/sabbirsohag-1509/assignment-11-client
 
 ---
 
