@@ -86,8 +86,10 @@ Currently focusing on React, Next.js, and modern UI practices.
 ### 🎓 ScholarStream (Scholarship Management Platform)
 - Role-based dashboards (Student, Moderator, Admin)
 - Stripe payment integration
-- Search, filter & pagination  
+- Search, filter & pagination
+ 
 🔗 Live: https: https://sparkling-sable-55715c.netlify.app
+
 🔗 Client: [https://github.com/your-repo](https://github.com/sabbirsohag-1509/assignment-11-client)
 
 ---
@@ -100,7 +102,9 @@ Currently focusing on React, Next.js, and modern UI practices.
 - Ratings & reviews system for properties
 - Secure authentication using Firebase & JWT
 - Responsive UI with light/dark mode support
-🔗 Live: https://whimsical-marigold-942cbe.netlify.app  
+ 
+🔗 Live: https://whimsical-marigold-942cbe.netlify.app
+
 🔗 Client: https://github.com/sabbirsohag-1509/assignment-10-client-site
 
 ## 🧩 Tech Stack
