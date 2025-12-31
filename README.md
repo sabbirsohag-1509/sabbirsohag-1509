@@ -88,7 +88,7 @@ Currently focusing on React, Next.js, and modern UI practices.
 - Stripe payment integration
 - Search, filter & pagination
  
-🔗 Live: https: https://sparkling-sable-55715c.netlify.app
+🔗 Live: https://sparkling-sable-55715c.netlify.app
 
 🔗 Client: [https://github.com/your-repo](https://github.com/sabbirsohag-1509/assignment-11-client)
 
