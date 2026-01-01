@@ -107,6 +107,22 @@ Currently focusing on React, Next.js, and modern UI practices.
 
 🔗 Client: https://github.com/sabbirsohag-1509/assignment-10-client-site
 
+---
+### 📰 The Dragon News – Online Reading Newspaper Platform
+- Users can read live and latest news articles online
+- Browse news by categories for easy navigation
+- Secure authentication using Firebase
+- JWT-based protected routes for authorized users
+- Breaking news section with smooth marquee animation
+- Clean and responsive UI built with Tailwind CSS & DaisyUI
+- Icon-based interface using React Icons
+- Date and time formatted news using date-fns
+
+🔗 Live: https://elaborate-unicorn-82d342.netlify.app/category/0
+
+🔗 Client: https://github.com/sabbirsohag-1509/module-50-51-firebase-dragon-news
+
+
 ## 🧩 Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
